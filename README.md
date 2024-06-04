@@ -2,7 +2,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 # Getting Started
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+> **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 ## Step 1: Start the Metro Server
 
@@ -77,3 +77,17 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+## Download link
+
+Apk download link([DownloadLink](https://drive.google.com/file/d/1hOabkgOjIRhN_gCZ2IQwSirV5gygHl2E/view?usp=drive_link))
+
+## Screenshots
+
+<img src="./src/assets/Images/welcomeScreen.jpg" alt="WelcomeScreen" width="200"/>
+<img src="./src/assets/Images/HomeScreen.jpg" alt="HomeScreen" width="200"/>
+<img src="./src/assets/Images/RestaurantScreen1.jpg" alt="RestaurantScreen1" width="200"/>
+<img src="./src/assets/Images/RestaurantScreen2.jpg" alt="RestaurantScreen2" width="200"/>
+<img src="./src/assets/Images/CartScreen.jpg" alt="CartScreen" width="200"/>
+<img src="./src/assets/Images/OrderPreparingScreen.jpg" alt="OrderPreparingScreen" width="200"/>
+<img src="./src/assets/Images/DeliveryScreen.jpg" alt="DeliveryScreen" width="200"/>
